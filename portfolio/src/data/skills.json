@@ -1,0 +1,66 @@
+[
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/cplusplus.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+        "title": "Bash",
+        "imageSrc": "skills/bash.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Vim",
+        "imageSrc": "skills/vim.png"
+    },
+    {
+    "title": "git",
+    "imageSrc": "skills/git.png"
+    },
+    {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+    },
+    {
+    "title": "Node.js",
+    "imageSrc": "skills/nodejs.png"
+    },
+    {
+    "title": "Nginx",
+    "imageSrc": "skills/nginx.png"
+    }
+  ]
